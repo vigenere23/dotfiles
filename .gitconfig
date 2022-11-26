@@ -2,3 +2,4 @@
 	excludesFile = ~/.gitignore
 [alias]
 	create = push --set-upstream origin
+	oopsie = commit --amend --reset-author
